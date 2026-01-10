@@ -5,4 +5,4 @@ My project portfolio covers a variety of topics:
 
 **Strategic Analysis** (Porter's Five Forces, SWOT Analysis, Data Analytics).
 **Statistical & Econometric Analysis:** Consumption and GDP in Greek Economy.
-Human Resource Analytics Framework, Python development and reporting, Comparative Analysis of predictive models.
+**Human Resource Analytics Framework**, Python development and reporting, Comparative Analysis of predictive models.
